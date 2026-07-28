@@ -1,0 +1,6 @@
+- [x] Update imports for `BottomSheetScaffold`
+- [x] Implement `BottomSheetScaffold` structure in `MapScreen.kt`
+- [x] Move `GoogleMap` to scaffold main content
+- [x] Move UI controls to `sheetContent`
+- [x] Add `DragHandle` and implement Compact/Expanded view logic
+- [x] Verify functionality and smooth dragging
